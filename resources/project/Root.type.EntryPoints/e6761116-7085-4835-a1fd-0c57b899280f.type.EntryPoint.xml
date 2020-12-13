@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="Motor_position/Motor_position.slx" Name="Motor_position">
+    <Extension Value="cab21e3a-c08b-46d7-810f-9a93e7cc10a5" Name="StartUpPrev" />
+</Info>
